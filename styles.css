@@ -50,7 +50,7 @@ nav.site a{
 nav.site a:first-child{margin-left:0}
 nav.site a:hover{color:var(--ink)}
 
-.hero-img{width:100%; height:auto; border-radius:3px; margin:28px 0}
+.hero-img{width:100%; max-width:340px; height:auto; display:block; border-radius:3px; margin:28px auto}
 
 .topics-grid{
   display:grid;
